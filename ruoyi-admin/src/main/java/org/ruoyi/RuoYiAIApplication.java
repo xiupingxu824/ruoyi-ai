@@ -16,6 +16,11 @@ import java.net.ServerSocket;
 @SpringBootApplication
 public class RuoYiAIApplication {
 
+
+    public String test() {
+        return "";
+    }
+
     public static void main(String[] args) {
         killPortProcess(6039);
         SpringApplication application = new SpringApplication(RuoYiAIApplication.class);
