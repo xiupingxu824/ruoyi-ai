@@ -10,6 +10,7 @@ import java.net.ServerSocket;
 /**
  * 启动程序
  *
+ *启动入口备注调整
  * @author Lion Li
  */
 @SpringBootApplication
