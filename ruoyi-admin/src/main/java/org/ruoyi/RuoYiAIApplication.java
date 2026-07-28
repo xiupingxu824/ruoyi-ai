@@ -29,6 +29,9 @@ public class RuoYiAIApplication {
         System.out.println("(♥◠‿◠)ﾉﾞ     RuoYi-AI启动成功   ლ(´ڡ`ლ)");
     }
 
+
+
+
     /**
      * 检查并终止占用指定端口的进程
      *
